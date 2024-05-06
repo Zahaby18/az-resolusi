@@ -2,3 +2,6 @@ AZ Resolusi :
 - konsisten belajar fullstack development
 - bisa React js dan Vue
 - jadi front end developer di antikode september 2024 nanti
+
+- bisa angular
+- beli merch codepolitan dan wpu
