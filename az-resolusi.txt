@@ -2,8 +2,8 @@ AZ Resolusi :
 - konsisten belajar fullstack development
 - bisa React js dan Vue
 - jadi front end developer di antikode september 2024 nanti
-^ freelance
-^ upwork
+^ korporat atau start up
+^ antikode atau dentsu
 
 - bisa angular
 - buat tutorial di yt
