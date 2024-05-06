@@ -1,3 +1,5 @@
 rencana belajar dari kelas mana :
 - codepolitan
+- fullstack js dev
+
 - wpu
