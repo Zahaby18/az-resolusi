@@ -3,6 +3,7 @@ AZ Resolusi :
 - bisa React js dan Vue
 - jadi front end developer di antikode september 2024 nanti
 ^ korporat atau start up
+^ antikode atau dentsu
 
 - bisa angular
 - buat tutorial di yt
